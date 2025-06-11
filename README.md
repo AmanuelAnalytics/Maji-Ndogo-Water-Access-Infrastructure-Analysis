@@ -179,6 +179,6 @@ This project is released under the [MIT License](LICENSE). You’re welcome to r
 
 ## ✉️ Contact
 
-For questions, collaboration, or access to additional data layers, feel free to reach out via [GitHub](https://github.com/) or email.
+For questions, collaboration, or access to additional data layers, feel free to reach out via [GitHub]([https://github.com/](https://github.com/AmanuelAnalytics)) or email.
 
 
