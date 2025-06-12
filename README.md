@@ -3,6 +3,7 @@
 ## About the Data
 
 This project is based on the `md_water_services` database, a comprehensive dataset that captures the state of water access, quality, and infrastructure across multiple towns and provinces. It includes over **60,000** unique water source records and draws from structured field visits, surveyor assessments, and citizen-reported feedback.
+Note: This dataset is fully synthetic and anonymized, created for educational and analytical purposes. It does not represent real individuals or locations.
 
 ### Key Tables in the Dataset
 
